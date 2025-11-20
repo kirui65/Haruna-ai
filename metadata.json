@@ -1,0 +1,8 @@
+{
+  "name": "Haruna AI",
+  "description": "A powerful, multimodal AI learning assistant capable of analyzing images and text to help you master any subject.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
